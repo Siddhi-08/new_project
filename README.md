@@ -1,4 +1,4 @@
 # new_project
 Learning git
 <br>
-This is me
+Author - Siddhi Jha
